@@ -1,4 +1,4 @@
-module github.com/neoblaze/edge-tts-go
+module github.com/Ne0Blaze/edge-tts-go
 
 go 1.20
 
